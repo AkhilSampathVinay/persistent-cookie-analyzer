@@ -1,0 +1,7 @@
+This report, titled “Persistent Cookie Analyzer with a Graphical User Interface”, is an original academic project submitted by CH. Akhil Sampath Vinay in partial fulfillment of the requirements for the degree of B.Tech in Computer Science and Engineering (Cyber Security) at Vignana Bharathi Institute of Technology.
+
+The contents of this report — including its documentation, source code, and design — are protected by copyright. This work is intended for educational and research purposes only.
+
+You are welcome to view and share this work for personal or academic use. However, reproduction, redistribution, or commercial use is not permitted without prior permission from the author.
+
+© 2025 CH. Akhil Sampath Vinay. All rights reserved.
