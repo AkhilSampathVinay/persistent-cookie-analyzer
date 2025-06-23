@@ -20,7 +20,7 @@ A Python-based desktop application to extract and analyze browser cookies for pr
 You can read the full project report here: [report.pdf](./report.pdf)
 
 ## 📸 Screenshots
-![UI Screenshot](./screenshots/ui_main.png)
+screenshots
 
 ## 👤 Author
 **CH. Akhil Sampath Vinay**
